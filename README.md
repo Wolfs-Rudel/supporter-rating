@@ -1,0 +1,2 @@
+# supporter-rating
+⭐ Supporter Rating
